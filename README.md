@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Matheus
+- 👀 I’m interested in get knowledge
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me matheuskriggerbrum7@gmail.com
