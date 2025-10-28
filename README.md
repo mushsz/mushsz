@@ -1,2 +1,4 @@
 - Olá, me chamo Matheus!
-- Atualmente estudando Desenvolvimento Web Front-End, buscando experiências.
+- Formado como desenvolvedor Front-end pela Escola DNC.
+- Atualmente cursando ultimo semestre do meu tecnologo de TI (Software - 2 anos)
+- Estudando .NET com IA, pra aprimorara meu desenvolvimento como Fullstack.
