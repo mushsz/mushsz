@@ -1,5 +1,4 @@
-- Olá, me chamo Matheus!
-- Formado como desenvolvedor Front-end pela Escola DNC.
-- Atualmente cursando ultimo semestre do meu tecnologo de TI (Software - 2 anos)
-- Formado pela Geração Caldeira +IBM em IA e Dados.
-- Estudando Backend com Java e Cloud, pra aprimorara meu desenvolvimento como Fullstack.
+Olá! Me chamo Matheus.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com formação em Desenvolvimento Front-End e em transição para o ecossistema Java.
+Desenvolvo projetos para aprimorar minhas habilidades em programação, com foco em Java, orientação a objetos, bancos de dados e desenvolvimento de APIs.
+Busco minha primeira oportunidade como estagiário para aplicar conhecimentos técnicos, aprender com profissionais experientes e crescer na área de tecnologia.
